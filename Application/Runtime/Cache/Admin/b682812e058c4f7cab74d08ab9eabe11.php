@@ -1,4 +1,5 @@
-<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -39,6 +40,7 @@
 
 
 <body>
+
 <div id="wrapper">
 
     <?php  $navs = D('Menu')->getAdminMenus(); $index = 'index'; ?>
@@ -81,50 +83,30 @@
   <!-- /.navbar-collapse -->
   
 </nav>
-<div id="page-wrapper">
 
-    <div class="container-fluid" >
+    <div id="page-wrapper">
+
+    <div class="container-fluid">
 
         <!-- Page Heading -->
         <div class="row">
             <div class="col-lg-12">
 
                 <ol class="breadcrumb">
-
+                    <li>
+                        <i class="fa fa-dashboard"></i>  <a href="/admin.php?c=admin">用户管理</a>
+                    </li>
                     <li class="active">
-                        <i class="fa fa-table"></i>推荐位内容管理
+                        <i class="fa fa-table"></i><?php echo ($nav); ?>
                     </li>
                 </ol>
             </div>
         </div>
         <!-- /.row -->
-        <div >
-            <button  id="button-add" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>添加 </button>
+        
+        <div>
+          <button  id="button-add" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>添加 </button>
         </div>
-
-        <div class="row">
-            <form action="/admin.php" method="get">
-                <div class="col-md-3">
-                    <div class="input-group">
-                        <span class="input-group-addon">推荐位</span>
-                        <select class="form-control" name="position_id">
-                                <?php if(is_array($position)): foreach($position as $key=>$position): ?><option value="<?php echo ($position["id"]); ?>"<?php if($position['id'] == $postitionId): ?>selected="selected"<?php endif; echo ($position["name"]); ?></option><?php endforeach; endif; ?>
-                        </select>
-                    </div>
-                </div>
-                <input type="hidden" name="c" value="positioncontent"/>
-                <input type="hidden" name="a" value="index"/>
-                <div class="col-md-3">
-                    <div class="input-group">
-                        <input class="form-control" name="title" type="text" value="<?php echo ($title); ?>" placeholder="文章标题" />
-                <span class="input-group-btn">
-                  <button id="sub_data" type="submit" class="btn btn-primary"><i class="glyphicon glyphicon-search"></i></button>
-                </span>
-                    </div>
-                </div>
-            </form>
-        </div>
-
         <div class="row">
             <div class="col-lg-6">
                 <h3></h3>
@@ -133,46 +115,34 @@
                     <table class="table table-bordered table-hover singcms-table">
                         <thead>
                         <tr>
-                            <th width="14">排序</th><!--7-->
                             <th>id</th>
-                            <th>标题</th>
-                            <th>时间</th>
-                            <th>封面图</th>
+                            <th>用户名</th>
+                            <th>真实姓名</th>
+                            <th>最后登录时间</th>
                             <th>状态</th>
                             <th>操作</th>
                         </tr>
                         </thead>
                         <tbody>
-                            <?php if(is_array($content)): $i = 0; $__LIST__ = $content;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
-                                <td><input size=4 type='text'  name="listorder[$vo.id]" value="<?php echo ($vo["name"]); ?>"/></td>
-                                <td><?php echo ($vo["id"]); ?></td>
-                                <td><?php echo ($vo["title"]); ?></td>
-                                <td><?php echo (date("y-m-d H:i",$vo["create_time"])); ?></td>
-                                <td><?php echo (isThumb($vo["thumb"])); ?></td>
-                                <td>
-                                    <span  attr-status="0"  attr-id="" class="sing_cursor singcms-on-off" id="singcms-on-off" ></span>
-                                </td>
-                                <td>
-                                    <span class="sing_cursor glyphicon glyphicon-edit" aria-hidden="true" id="singcms-edit" attr-id="" ></span>
-                                    <a href="javascript:void(0)" id="singcms-delete"  attr-id=""  attr-message="删除">
-                                        <span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span>
-                                    </a>
-                                </td>
+                        <?php if(is_array($admins)): $i = 0; $__LIST__ = $admins;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
+                                
+                                <td><?php echo ($vo["admin_id"]); ?></td>
+                                <td><?php echo ($vo["username"]); ?></td>
+                                <td><?php echo ($vo["realname"]); ?></td>
+                                <td><?php echo (date("Y-m-d H:i",$vo["lastlogintime"])); ?></td>
+                                <td><span  attr-status="<?php if($vo['status'] == 1): ?>0<?php else: ?>1<?php endif; ?>"  attr-id="<?php echo ($vo["admin_id"]); ?>" class="sing_cursor singcms-on-off" id="singcms-on-off" ><?php echo (status($vo["status"])); ?></span></td>
+                                <td>    <a href="javascript:void(0)" attr-id="<?php echo ($vo["admin_id"]); ?>" id="singcms-delete"  attr-a="admin" attr-message="删除"><span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span></a></td>
                             </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+
                         </tbody>
                     </table>
-                    </from>
-                    <div>
-                        <button  id="button-listorder" type="button" class="btn btn-primary dropdown-toggle" ><span class="glyphicon glyphicon-resize-vertical" aria-hidden="true"></span>更新排序</button>
-                    </div>
+                    </form>
+                    
                 </div>
             </div>
 
         </div>
         <!-- /.row -->
-
-
-
     </div>
     <!-- /.container-fluid -->
 
@@ -181,15 +151,17 @@
 
 </div>
 <!-- /#wrapper -->
+<!-- Morris Charts JavaScript -->
 <script>
     var SCOPE = {
-        'edit_url' : 'admin.php?c=positioncontent&a=edit',
-        'set_status_url' : 'admin.php?c=positioncontent&a=setStatus',
-        'add_url' : 'admin.php?c=positioncontent&a=add',
-        'listorder_url' : 'admin.php?c=positioncontent&a=listorder',
-    }
+        'add_url' : 'admin.php?c=admin&a=add',
+        'edit_url' : 'admin.php?c=admin&a=edit',
+        'set_status_url' : 'admin.php?c=admin&a=setStatus',
+        'index_url' : '/singcms',
 
+    }
 </script>
+
 <script src="Public/js/admin/common.js"></script>
 
 
