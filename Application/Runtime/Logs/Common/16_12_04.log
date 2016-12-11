@@ -1,0 +1,168 @@
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T00:06:19+08:00 ] ::1 /singcms/admin.php/Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T15:46:32+08:00 ] ::1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T15:46:37+08:00 ] ::1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T16:03:12+08:00 ] 127.0.0.1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T16:20:03+08:00 ] 127.0.0.1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T16:20:08+08:00 ] 127.0.0.1 /singcms/admin.php/Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T17:39:03+08:00 ] ::1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T17:39:04+08:00 ] ::1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T18:15:05+08:00 ] 127.0.0.1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T20:10:23+08:00 ] ::1 /singcms/admin.php/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+ERR: 无法加载模块:Admin.php
+
+[ 2016-12-04T20:10:29+08:00 ] ::1 /singcms/admin.php/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T20:10:29+08:00 ] ::1 /singcms/admin.php/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T20:10:29+08:00 ] ::1 /singcms/admin.php/Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T20:10:29+08:00 ] ::1 /singcms/admin.php/Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-04T20:10:29+08:00 ] ::1 /singcms/admin.php/Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Public
+

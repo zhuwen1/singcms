@@ -1,0 +1,318 @@
+[ 2016-12-01T15:38:34+08:00 ] ::1 /singcms/index.php?m=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:08+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:19+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:20+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:20+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:20+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:21+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:21+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:21+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:21+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:21+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:22+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:22+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:22+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:22+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:22+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:23+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:23+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:23+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:43+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T16:31:43+08:00 ] ::1 /singcms/index.php?c=admin&m=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+ERR: 无法加载模块:Login
+
+[ 2016-12-01T20:13:29+08:00 ] ::1 /singcms/index.php/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-12-01T20:14:01+08:00 ] ::1 /singcms/index.php//m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:M
+
+[ 2016-12-01T20:15:43+08:00 ] ::1 /singcms/index.php?m=admin?c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Admin?c=login
+
+[ 2016-12-01T20:15:56+08:00 ] ::1 /singcms/index.php?m=admin?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Admin?
+
+[ 2016-12-01T20:17:51+08:00 ] ::1 /singcms/index.php/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-12-01T20:18:06+08:00 ] ::1 /singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:M
+
+[ 2016-12-01T20:18:14+08:00 ] ::1 /singcms/index.php/m=admin&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载模块:M=admin&c=login
+
+[ 2016-12-01T20:18:55+08:00 ] ::1 /singcms/index.php/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T20:19:13+08:00 ] ::1 /singcms/index.php/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T20:19:41+08:00 ] ::1 /singcms/index.php/localhost/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Localhost
+
+[ 2016-12-01T20:29:38+08:00 ] ::1 /singcms/index.php/localhost/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+ERR: 无法加载模块:Localhost
+
+[ 2016-12-01T20:30:21+08:00 ] ::1 /singcms/index.php/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T20:34:50+08:00 ] ::1 /singcms/index.php/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T20:35:03+08:00 ] ::1 /singcms/index.php/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-12-01T20:35:20+08:00 ] ::1 /singcms/index.php/m=admin&c=login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:M=admin&c=login
+
+[ 2016-12-01T21:05:03+08:00 ] ::1 /singcms/index.php/xinwen/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Xinwen
+
+[ 2016-12-01T21:05:38+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:07:50+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:06+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:44+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:46+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:46+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:46+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:46+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:11:54+08:00 ] ::1 /singcms/index.php/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:14:27+08:00 ] ::1 /singcms/index.php/singcms/index.php/m/admin/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:19:37+08:00 ] ::1 /singcms/admin.php/singcms/admin.php/c/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:19:38+08:00 ] ::1 /singcms/admin.php/singcms/admin.php/c/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:20:03+08:00 ] ::1 /singcms/admin.php/singcms/admin.php/c/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:20:18+08:00 ] ::1 /singcms/admin.php/singcms/admin.php/c/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:20:31+08:00 ] ::1 /singcms/admin.php/singcms/admin.php/c/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载模块:Singcms
+
+[ 2016-12-01T21:22:25+08:00 ] ::1 /singcms/index.php/singcms/admin.php/c/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Singcms
+
