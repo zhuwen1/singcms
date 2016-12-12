@@ -1,0 +1,54 @@
+[ 2016-12-12T14:40:18+08:00 ] 111.13.93.229 /singcms/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [2048] Declaration of Home\Controller\CommonController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /var/www/html/singcms/Application/Home/Controller/CommonController.class.php 第 0 行.
+NOTIC: [2048] Declaration of Common\Model\NewsModel::find() should be compatible with Think\Model::find($options = Array) /var/www/html/singcms/Application/Common/Model/NewsModel.class.php 第 5 行.
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-12-12T21:04:12+08:00 ] 125.120.40.70 /singcms/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+NOTIC: [2048] Declaration of Home\Controller\CommonController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /var/www/html/singcms/Application/Home/Controller/CommonController.class.php 第 0 行.
+NOTIC: [2048] Declaration of Common\Model\NewsModel::find() should be compatible with Think\Model::find($options = Array) /var/www/html/singcms/Application/Common/Model/NewsModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `cms_news` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `cms_news` WHERE `status` = 1 ORDER BY count desc,news_id desc LIMIT 10   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `cms_position_content` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: title /var/www/html/singcms/Application/Common/Model/PositionContentModel.class.php 第 17 行.
+SQL: SELECT * FROM `cms_position_content` WHERE `status` = 1 ORDER BY listorder desc , id desc LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: title /var/www/html/singcms/Application/Common/Model/PositionContentModel.class.php 第 17 行.
+SQL: SELECT * FROM `cms_position_content` WHERE `status` = 1 ORDER BY listorder desc , id desc LIMIT 3   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `cms_news` WHERE `status` = 1 AND `thumb` <> '' ORDER BY news_id desc LIMIT 30   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: title /var/www/html/singcms/Application/Common/Model/PositionContentModel.class.php 第 17 行.
+SQL: SELECT * FROM `cms_position_content` WHERE `status` = 1 ORDER BY listorder desc , id desc LIMIT 3   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) /var/www/html/singcms/Application/Common/Model/BasicModel.class.php 第 0 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) /var/www/html/singcms/Application/Common/Model/BasicModel.class.php 第 0 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) /var/www/html/singcms/Application/Common/Model/MenuModel.class.php 第 0 行.
+SQL: SHOW COLUMNS FROM `cms_menu` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `cms_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY listorder desc,menu_id desc  [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant catid - assumed 'catid' /var/www/html/singcms/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 24 行.
+NOTIC: [8] Undefined index: catid /var/www/html/singcms/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 24 行.
+NOTIC: [8] Use of undefined constant catid - assumed 'catid' /var/www/html/singcms/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 24 行.
+NOTIC: [8] Undefined index: catid /var/www/html/singcms/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 24 行.
+NOTIC: [8] Use of undefined constant catid - assumed 'catid' /var/www/html/singcms/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 24 行.
+NOTIC: [8] Undefined index: catid /var/www/html/singcms/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+

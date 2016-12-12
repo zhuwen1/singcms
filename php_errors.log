@@ -1,0 +1,2 @@
+[12-Dec-2016 21:05:23 PRC] PHP Fatal error:  Call to a member function select() on a non-object in /var/www/html/singcms/ThinkPHP/Library/Think/Model.class.php on line 759
+[12-Dec-2016 21:05:24 PRC] PHP Fatal error:  Call to a member function select() on a non-object in /var/www/html/singcms/ThinkPHP/Library/Think/Model.class.php on line 759
